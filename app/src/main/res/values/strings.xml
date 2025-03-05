@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_country">Enter Country</string>
+    <string name="search_weather">Click Here to Search Weather</string>
+    <string name="search_astronomy">Click Here to Search Astronomy</string>
+</resources>
